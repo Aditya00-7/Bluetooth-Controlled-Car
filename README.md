@@ -8,3 +8,14 @@ The Bluetooth controlled car serves as an interactive tool for hobbyists and stu
 
 ## Significance:
 Bluetooth technology enhances the interaction between car and driver, fostering safer driving practices through features like hands-free calling and audio streaming. It enriches the in-car experience, promoting connectivity while prioritizing road safety.
+
+## ## Objectives and Scope:
+The objective of the Bluetooth controlled car project is to leverage IoT technology for various applications, including:
+
+- Providing a platform for learning and experimentation in electronics, programming, and robotics.
+- Teaching fundamentals of Bluetooth communication, microcontroller programming, and motor control.
+- Enabling easy control via smartphone or Bluetooth-enabled devices.
+- Offering entertainment options like racing or obstacle courses.
+
+## Hardware and Software Requirements:
+![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/3f810119-b2c0-41c1-ab4a-3146ca8c0b5d)
