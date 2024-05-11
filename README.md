@@ -19,3 +19,7 @@ The objective of the Bluetooth controlled car project is to leverage IoT technol
 
 ## Hardware and Software Requirements:
 ![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/3f810119-b2c0-41c1-ab4a-3146ca8c0b5d)
+Arduino IDE 
+![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/17245c22-55b9-43d0-a3c1-4d480fb23616)
+![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/f9dd628c-e12f-45c4-9111-63003de9d0c3)
+
