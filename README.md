@@ -18,8 +18,11 @@ The objective of the Bluetooth controlled car project is to leverage IoT technol
 - Offering entertainment options like racing or obstacle courses.
 
 ## Hardware and Software Requirements:
-![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/3f810119-b2c0-41c1-ab4a-3146ca8c0b5d)
-Arduino IDE 
-![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/17245c22-55b9-43d0-a3c1-4d480fb23616)
-![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/f9dd628c-e12f-45c4-9111-63003de9d0c3)
+Arduino IDE,Arduino UNO,Control Board L293D Motor Shield,HC 05,Motor 300RPM,Wheels
+
+![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/ec91bfc6-c0bb-4dfe-a36f-d9a18cca7730)
+
+## Circuit Diagram
+![image](https://github.com/Aditya00-7/Bluetooth-Controlled-Car/assets/96711481/10babdf7-b1fe-4b11-b384-9bec66d2f1f4)
+
 
